@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "そばにいるね（feat. SoulJa）",
+  "base_artist": "青山テルマ",
+  "createdAt": "2026-02-19T12:06:55.994486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そばにいるね (feat. SoulJa)",
+      "artist": "青山テルマ × SOL from BIGBANG",
+      "has_synced": true,
+      "path": "select/01_そばにいるね_(feat._SoulJa)_青山テルマ_×_SOL_from_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "そばにいるね [Feat. SoulJa]",
+      "artist": "青山テルマ",
+      "has_synced": false,
+      "path": "select/02_そばにいるね_[Feat._SoulJa]_青山テルマ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そばにいるね Feat. Soulja",
+      "artist": "青山 テルマ",
+      "has_synced": false,
+      "path": "select/pl_01_そばにいるね_Feat._Soulja_青山_テルマ.txt"
+    }
+  ]
+}
